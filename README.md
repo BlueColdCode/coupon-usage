@@ -1,4 +1,4 @@
-# coupon-usage
+# Coupon Usage Analysis
 
 In this exercise, we apply the CRoss Industry Standard Process for Data Mining (CRISP-DM) process model to
 prepare datasets and provide initial assessment of the information.
